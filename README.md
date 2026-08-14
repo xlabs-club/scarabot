@@ -2,7 +2,7 @@
 
 # 🪲 Scarabot
 
-**We roll where others fear to commit.**
+**Rolling your legacy code out of the shadows, commit by commit.**
 
 [English](./README.md) · [简体中文](./README.zh-CN.md)
 
