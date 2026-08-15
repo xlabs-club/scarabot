@@ -37,7 +37,7 @@ redundant, what's dangerous — and clears it away with surgical precision.
 scarabot/
 ├── agents/        # Agent definitions powering the cleanup workflows
 ├── skills/        # Reusable skills for specific cleanup tasks
-├── code-clinic/   # Drop-in code for diagnostic cleanup sessions
+├── code-smell-catalog/  # Catalog of code smells for diagnostic sessions
 └── README.md
 ```
 

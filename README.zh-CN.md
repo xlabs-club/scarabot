@@ -32,7 +32,7 @@ Scarabot（黑武士）是一个专注于**代码清理**的 agent 与 skill 仓
 scarabot/
 ├── agents/        # 驱动清理工作流的 Agent 定义
 ├── skills/        # 针对特定清理任务的可复用 skill
-├── code-clinic/   # 诊断式清理会话的代码素材
+├── code-smell-catalog/  # 诊断会话的代码异味清单
 └── README.md
 ```
 
