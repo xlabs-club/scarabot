@@ -1,0 +1,12 @@
+{
+  "name": "scarabot",
+  "private": true,
+  "description": "scarabot agents and skills",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules/**\"",
+    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\" \"#node_modules/**\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.17.2"
+  }
+}
